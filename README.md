@@ -1,9 +1,7 @@
 Hi i am Andrew from Hungary!
 
-I creating my own program to write Python code.
+I creating my own program to write Python and BASIC code.
 
 Now it's only Hungarian but i making an English version.
 
 I hope i can help to someone.
-
-Downnload the zip file.
